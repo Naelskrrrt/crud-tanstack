@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is title one",
+      "body": "This is the body"
+    },
+    {
+      "id": 3,
+      "title": "post two",
+      "body": "post two"
+    },
+    {
+      "id": "9ce78ffa-c41e-421f-a2e0-3c4fc1197ecc",
+      "title": "123",
+      "body": "123"
+    },
+    {
+      "id": "89d5aff4-cebe-4c30-9df1-10055388e264",
+      "title": "hello",
+      "body": "hello"
+    },
+    {
+      "id": "0f0fd80f-659c-40ef-87d3-e919bcb327ba",
+      "title": "Annael",
+      "body": "Annael"
+    }
+  ]
+}
